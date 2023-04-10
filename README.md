@@ -1,2 +1,2 @@
-# wordsmith-web
+# wordsmith-api
 demo
